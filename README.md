@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Trummmmmmmmmm" target="blank"><img src="https://img.shields.io/twitter/follow/trum?logo=twitter&style=for-the-badge" alt="trum" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs** and **Ruby on rails**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-trum.vercel.app](https://portfolio-trum.vercel.app)
 
